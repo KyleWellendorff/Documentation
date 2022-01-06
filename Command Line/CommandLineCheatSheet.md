@@ -34,7 +34,12 @@ Within PowerShell or a Linux WSL (windows sub-system for linux)
 
 6. **Create an Emtpy File**
    >In practice, not very useful. Equivalent to `TOUCH` in Linux
+   
+   >`New-Item IAmCool.txt -type file`
 
-    ![rmdir](Attachments/CreateEmptyFile.gif)
+    ![CreateEmptyFile](Attachments/CreateEmptyFile.gif)
 
-    
+
+7. **cp** - Copy or rename a file: `cp IAmCool.txt IAmTooCool.txt`
+
+    ![CopyRenameFile](Attachments/CopyRenameFile.gif)

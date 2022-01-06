@@ -26,4 +26,15 @@ Within PowerShell or a Linux WSL (windows sub-system for linux)
 
 
     
-5. **Hello**
+5. **rmdir** - Removes a directory. Relative to your working directory 
+    > I used `tree` to list out the folders and subfolders downstream of my working directory (NOTE: Prints everything so do not run in an environment with lots of folders and files. worked great in this example case. I wanted to remove all the directories in `\TEMP`)
+    >In 
+
+    ![rmdir](Attachments/rmdir.gif)
+
+6. **Create an Emtpy File**
+   >In practice, not very useful. Equivalent to `TOUCH` in Linux
+
+    ![rmdir](Attachments/CreateEmptyFile.gif)
+
+    

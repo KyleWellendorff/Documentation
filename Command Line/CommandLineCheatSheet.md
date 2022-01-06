@@ -9,9 +9,10 @@ Within PowerShell or a Linux WSL (windows sub-system for linux)
     ![pwd](Attachments/pwd.gif)
 
 2. **cd** - Change Working Directory
-   > within your working directory you can run `ls` to list all the files/folders downstream to where you are. then you can use `cd` to change to the desired location
-   - I used `ls` to list out the folders, and then changed my working directory to the "C:\Users\Kyle Wellendorff\temp" folder
-   
+   > within your working directory you can run `ls` to list all the files/folders downstream to where you are. then you can use `cd` to change to the desired location. Use `cd ..` to go UP one directory
+   - I used `ls` to list out the folders, and then changed my working directory to the "C:\Users\Kyle Wellendorff\temp" folder. While typing the destination folder, you can hit TAB to auto-complete if available  
+  
+
     ![cd](Attachments/cd.gif)
 
 3. **hostname** - Print out local Host Name (computer name)
@@ -25,3 +26,4 @@ Within PowerShell or a Linux WSL (windows sub-system for linux)
 
 
     
+5. **Hello**

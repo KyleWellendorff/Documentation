@@ -43,3 +43,11 @@ Within PowerShell or a Linux WSL (windows sub-system for linux)
 7. **cp** - Copy or rename a file: `cp IAmCool.txt IAmTooCool.txt`
 
     ![CopyRenameFile](Attachments/CopyRenameFile.gif)
+
+8. **rm** - Remove a file. In reference to your working directory
+    ```
+    Can run `rm filename` or `rm *` to remove all files from a direcory
+    ```
+
+
+    ![RemoveFile](Attachments/RemoveFile.gif)

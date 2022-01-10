@@ -46,7 +46,7 @@ Within PowerShell or a Linux WSL (windows sub-system for linux)
 
 8. **rm** - Remove a file. In reference to your working directory
     ```
-    Can run `rm filename` or `rm *` to remove all files from a direcory
+    Can run `rm filename` or `rm *` to remove all files from a direcory. Be CAREFUL
     ```
 
 

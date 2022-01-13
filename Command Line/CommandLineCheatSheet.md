@@ -51,3 +51,6 @@ Within PowerShell or a Linux WSL (windows sub-system for linux)
 
 
     ![RemoveFile](Attachments/RemoveFile.gif)
+
+
+    testing onedrive messsing up my folder 
